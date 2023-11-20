@@ -1,0 +1,317 @@
+.main {
+    background-color: #000000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 1440px;
+}
+
+.main .div {
+    background-color: #000000;
+    width: 1440px;
+    height: 1857px;
+    position: relative;
+}
+
+.main .overlap-group {
+    position: absolute;
+    width: 1440px;
+    height: 737px;
+    top: -18px;
+    left: 0;
+    background-color:black;
+}
+
+.main .image {
+    position: absolute;
+    width: 158px;
+    height: 95px;
+    top: 36px;
+    left: 55px;
+    object-fit: cover;
+}
+
+.main .home-TV-shows-movies {
+    position: absolute;
+    top: 60px;
+    left: 257px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main .group {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 10px;
+    left: 1100px;
+    background-image: url(profile.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.main .text-wrapper {
+    position: absolute;
+    top: 748px;
+    left: 39px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main .component-tripti {
+    position: absolute;
+    width: 253px;
+    height: 147px;
+    top: 827px;
+    left: 25px;
+    background-image: url(Tripti-Dimri-Bulbbul.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.main .component-lucifer {
+    position: absolute;
+    width: 256px;
+    height: 147px;
+    top: 827px;
+    left: 297px;
+    background-image: url(lucifer.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.main .component-money {
+    position: absolute;
+    width: 250px;
+    height: 147px;
+    top: 827px;
+    left: 572px;
+    background-image: url(money\ heist.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.main .component-boss {
+    position: absolute;
+    width: 290px;
+    height: 147px;
+    top: 827px;
+    left: 841px;
+    background-image: url(boss.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.main .component {
+    position: absolute;
+    width: 257px;
+    height: 147px;
+    top: 827px;
+    left: 1150px;
+    background-image: url(polishetty.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.main .p {
+    position: absolute;
+    top: 958px;
+    left: 39px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main .overlap {
+    position: absolute;
+    width: 260px;
+    height: 275px;
+    top: 1078px;
+    left: 51px;
+}
+
+.main .mismatched-season {
+    position: absolute;
+    width: 228px;
+    height: 267px;
+    top: 0;
+    left: 32px;
+    object-fit: cover;
+}
+
+.main .element {
+    position: absolute;
+    width: 83px;
+    height: 153px;
+    top: 122px;
+    left: 0;
+}
+
+.main .overlap-2 {
+    position: absolute;
+    width: 227px;
+    height: 275px;
+    top: 1078px;
+    left: 334px;
+}
+
+.main .tjmm {
+    position: absolute;
+    width: 181px;
+    height: 267px;
+    top: 0;
+    left: 46px;
+    object-fit: cover;
+}
+
+.main .img {
+    position: absolute;
+    width: 121px;
+    height: 155px;
+    top: 120px;
+    left: 0;
+}
+
+.main .overlap-3 {
+    position: absolute;
+    width: 270px;
+    height: 282px;
+    top: 1073px;
+    left: 576px;
+}
+
+.main .element-jawan-shah {
+    position: absolute;
+    width: 221px;
+    height: 272px;
+    top: 0;
+    left: 49px;
+    object-fit: cover;
+}
+
+.main .element-2 {
+    position: absolute;
+    width: 128px;
+    height: 157px;
+    top: 125px;
+    left: 0;
+}
+
+.main .overlap-4 {
+    position: absolute;
+    width: 252px;
+    height: 280px;
+    top: 1073px;
+    left: 858px;
+}
+
+.main .delhi-crime {
+    position: absolute;
+    width: 193px;
+    height: 272px;
+    top: 0;
+    left: 59px;
+    object-fit: cover;
+}
+
+.main .element-3 {
+    position: absolute;
+    width: 134px;
+    height: 153px;
+    top: 127px;
+    left: 0;
+}
+
+.main .overlap-5 {
+    position: absolute;
+    width: 263px;
+    height: 330px;
+    top: 1073px;
+    left: 1112px;
+}
+
+.main .boxshot {
+    position: absolute;
+    width: 196px;
+    height: 272px;
+    top: 0;
+    left: 67px;
+    object-fit: cover;
+}
+
+.main .text-wrapper-2 {
+    position: absolute;
+    width: 122px;
+    top: 77px;
+    left: 0;
+    text-shadow: 25px 4px 4px #a5555580;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #e50914;
+    font-size: 200px;
+    letter-spacing: 0;
+    line-height: normal;
+}
+
+.main .text-wrapper-3 {
+    position: absolute;
+    top: 1368px;
+    left: 39px;
+    font-family: "Inter-Medium", Helvetica;
+    font-weight: 500;
+    color: #ffffff;
+    font-size: 40px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.main .dream {
+    position: absolute;
+    width: 294px;
+    height: 352px;
+    top: 1449px;
+    left: 32px;
+    object-fit: cover;
+}
+
+.main .breaking {
+    position: absolute;
+    width: 262px;
+    height: 352px;
+    top: 1449px;
+    left: 392px;
+    object-fit: cover;
+}
+
+.main .little {
+    position: absolute;
+    width: 282px;
+    height: 352px;
+    top: 1449px;
+    left: 720px;
+    object-fit: cover;
+}
+
+.main .mini {
+    position: absolute;
+    width: 277px;
+    height: 352px;
+    top: 1449px;
+    left: 1068px;
+    object-fit: cover;
+}
